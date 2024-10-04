@@ -1,0 +1,71 @@
+ body{
+    background-color: #d8b8b8;
+    
+    
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+    text-align: center;
+  
+
+ }
+
+ div{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    justify-content: center;
+    margin-top: 10px ;
+ }
+ #grey{
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+}
+ #white{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+ #blue{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+ #yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+
+ }
+   
+   
+ #red{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+
+ }
+   
+   
+ #green{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+
+ }
+   
+   
+ #violet{
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+
+ }
+   
+   
+
+
+         
+    
+    
